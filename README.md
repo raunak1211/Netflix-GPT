@@ -6,6 +6,14 @@
 -Routing of App
 -Login/SignUp Form
 -Form Validation
+-useRef Hook
+-FireBase Setup
+-Deploying
+-create SignUp User Account
+-Implement SignIn user Api
+-CreatedRedux Store with useSlice
+-Implemented Sign out
+-Update Profile Api
 
 
 
