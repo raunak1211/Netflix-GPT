@@ -2,6 +2,10 @@
 
 -create App
 -Configured TailwindCSS
+-Header
+-Routing of App
+-Login/SignUp Form
+-Form Validation
 
 
 
