@@ -16,6 +16,10 @@ const Body = () => {
   
   const router = createBrowserRouter([
     {
+      path: "/",
+      element: <Login></Login>,
+    },
+    {
       path: "/login",
       element: <Login></Login>,
     },
