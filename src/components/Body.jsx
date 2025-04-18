@@ -1,6 +1,6 @@
 import { useContext, useEffect } from "react";
 import Browse from "./Browse";
-import Login from "./Login";
+import Login from "./login";
 import { createBrowserRouter } from "react-router-dom";
 import { RouterProvider } from "react-router-dom";
 import { onAuthStateChanged } from "firebase/auth";
